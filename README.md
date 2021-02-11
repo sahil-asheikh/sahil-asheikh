@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year BTech student | Java Developer | Member of College Management Committee | Gamer | Video Creator</h3>
 
-- 🔭 I’m currently working on [JSP CRUD](https://github.com/sahilasheikh/JSP-CRUD)
+- 🔭 I’m currently working on [**JSP CRUD**](https://github.com/sahilasheikh/JSP-CRUD)
 
-- 📝 I regularly write articles on [instagram.com/sahil.asheikh](instagram.com/sahil.asheikh)
+- 📝 I regularly write articles on [**Instagram/sahil.asheikh**](instagram.com/sahil.asheikh)
 
 - 📫 How to reach me **sahilasheikh123@gmail.com**
 
