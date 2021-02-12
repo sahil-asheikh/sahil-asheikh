@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Sahil A Sheikh,</h1>
-<h3 align="center">3rd year BTech student | Java Developer | Member of College Management Committee | Gamer | Video Creator</h3>
+<h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
+<h3 align="center">3rd year BTech student | Java Developer</h3>
 
 - 🔭 I’m currently working on [**JSP CRUD**](https://github.com/sahilasheikh/JSP-CRUD)
 
-- 📝 I regularly write articles on [**Instagram/sahil.asheikh**](instagram.com/sahil.asheikh)
+- 📝 I regularly write articles on [**Instagram**](instagram.com/sahil.asheikh)
 
 - 📫 How to reach me **sahilasheikh123@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sahil_asheikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil_asheikh" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sahilasheikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahilasheikh" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil.ashiekh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahil.ashiekh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahilasheikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sahilasheikh" height="30" width="40" /></a>
