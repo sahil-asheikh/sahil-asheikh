@@ -1,13 +1,33 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year BTech student | Java Developer</h3>
 
-- 🔭 I’m currently working on [**JSP CRUD**](https://github.com/sahilasheikh/JSP-CRUD) and [**Notes**](https://github.com/sahilasheikh/Notes)
+- 🔭 I’m currently working on [**Notes**](https://github.com/sahilasheikh/Notes)
 
 - 📝 I regularly write articles on [**Instagram**](instagram.com/sahil.asheikh)
 
 - 📫 How to reach me **sahilasheikh123@gmail.com**
 
 - ⚡ Fun fact **I may not be good in real world but I am in Computer world.**
+
+- 💻 My Repositories
+
+  **01)** [**WingzApp**](https://github.com/sahilasheikh/WingzApp)
+  
+  **02)** [**Burger 34**](https://github.com/sahilasheikh/Burger-34)
+  
+  **03)** [**PassGen**](https://github.com/sahilasheikh/Pass-Gen)
+   
+  **04)** [**JDBC CRUD**](https://github.com/sahilasheikh/JDBC-CRUD)
+  
+  **05)** [**Servlet CRUD**](https://github.com/sahilasheikh/Servlet-CRUD)
+  
+  **06)** [**Servlet Login Registration**](https://github.com/sahilasheikh/Servlet-Login-Registration)
+  
+  **07)** [**JSP CRUD**](https://github.com/sahilasheikh/JSP-CRUD) 
+  
+  **08)** [**Notes**](https://github.com/sahilasheikh/Notes) 
+  
+  **09)** [**Java Logics**](https://github.com/sahilasheikh/Java-Logics)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
