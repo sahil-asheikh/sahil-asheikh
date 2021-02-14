@@ -23,9 +23,11 @@
   
   **07)** [**JSP CRUD:**](https://github.com/sahilasheikh/JSP-CRUD) This is a JSP Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
   
-  **08)** [**Notes:**](https://github.com/sahilasheikh/Notes) This is a web application that saves your notes on the Oracle database dynamically. Technologies used Servlet, JSP, JDBC, Oracle Database.
+  **08)** [**JSP Login Registration:**](https://github.com/sahilasheikh/JSP-Login-Registration) This is the web application is to register, login, and log out the user using JSP, JDBC & Oracle Database.
   
-  **09)** [**Java Logics:**](https://github.com/sahilasheikh/Java-Logics) In this repo, you will get all the logical programs with codes.
+  **09)** [**Notes:**](https://github.com/sahilasheikh/Notes) This is a web application that saves your notes on the Oracle database dynamically. Technologies used Servlet, JSP, JDBC, Oracle Database.
+  
+  **10)** [**Java Logics:**](https://github.com/sahilasheikh/Java-Logics) In this repo, you will get all the logical programs with codes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
