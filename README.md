@@ -29,7 +29,7 @@
   
   **10)** [**Java Logics:**](https://github.com/sahilasheikh/Java-Logics) In this repo, you will get all the logical programs with codes.
   
-  **11)** [**CV:**](https://github.com/sahilasheikh/CV) In this repo, you will get all the logical programs with codes.
+  **11)** [**CV:**](https://github.com/sahilasheikh/CV) This is my resume, visit for more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
