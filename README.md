@@ -28,6 +28,8 @@
   **09)** [**Notes:**](https://github.com/sahilasheikh/Notes) This is a web application that saves your notes on the Oracle database dynamically. Technologies used Servlet, JSP, JDBC, Oracle Database.
   
   **10)** [**Java Logics:**](https://github.com/sahilasheikh/Java-Logics) In this repo, you will get all the logical programs with codes.
+  
+  **11)** [**CV:**](https://github.com/sahilasheikh/CV) In this repo, you will get all the logical programs with codes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
