@@ -29,7 +29,7 @@
   
   **10)** [**Java Logics:**](https://github.com/sahilasheikh/Java-Logics) In this repo, you will get all the logical programs with codes.
   
-  **11)** [**CV:**](https://github.com/sahilasheikh/CV) This is my resume, visit for more.
+  **11)** [**My Portfolio:**](https://github.com/sahilasheikh/My-Portfolio) Here are the codes of my portfolio website, visit for more.
   
   **12)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
