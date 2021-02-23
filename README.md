@@ -33,7 +33,7 @@
   
   **12)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
-  **13)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypted the user's password and store into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
+  **13)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
