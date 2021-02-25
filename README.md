@@ -7,33 +7,31 @@
 
 - 📫 How to reach me **sahilasheikh123@gmail.com**
 
-- 💻 My Repositories
+- 💻 My Projects
 
   **01)** [**WingzApp:**](https://github.com/sahilasheikh/WingzApp) WingzApp is an application that hosts Question Papers, Notes, Syllabus, Timetable & Marksheet of RTMNU University. All the functions like the broadcast of docs, authentication is performed using Web View, Firebase Realtime Database & Firebase Services.
   
   **02)** [**Burger 34:**](https://github.com/sahilasheikh/Burger-34) Burger 34 is a food order app that orders food & sends the data/details from the customer application to the owner’s application. Both the user’s & owner’s applications communicate via Firebase Server.
   
   **03)** [**PassGen:**](https://github.com/sahilasheikh/Pass-Gen) PassGen is a password generator and manager application that generate a strong password according to user requirement.
-   
-  **04)** [**JDBC CRUD:**](https://github.com/sahilasheikh/JDBC-CRUD) This is a JDBC [Java Database Connectivity] Project that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
   
-  **05)** [**Servlet CRUD:**](https://github.com/sahilasheikh/Servlet-CRUD) This is a Servlet Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
-  
-  **06)** [**Servlet Login Registration:**](https://github.com/sahilasheikh/Servlet-Login-Registration) This is the web application is to register, login, and log out the user using Servlet, JDBC & Oracle Database.
-  
-  **07)** [**JSP CRUD:**](https://github.com/sahilasheikh/JSP-CRUD) This is a JSP Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
-  
-  **08)** [**JSP Login Registration:**](https://github.com/sahilasheikh/JSP-Login-Registration) This is the web application is to register, login, and log out the user using JSP, JDBC & Oracle Database.
-  
-  **09)** [**Notes:**](https://github.com/sahilasheikh/Notes) This is a web application that saves your notes on the Oracle database dynamically. Technologies used Servlet, JSP, JDBC, Oracle Database.
-  
-  **10)** [**Java Logics:**](https://github.com/sahilasheikh/Java-Logics) In this repo, you will get all the logical programs with codes.
-  
-  **11)** [**My Portfolio:**](https://github.com/sahilasheikh/My-Portfolio) Here are the codes of my portfolio website, visit for more.
-  
-  **12)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
+  **04)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
-  **13)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
+  **05)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
+
+  **06)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) This is a JSP Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
+  
+  **07)** [**My Portfolio:**](https://github.com/sahilasheikh/My-Portfolio) Here are the codes of my portfolio website, visit for more.
+
+- 💻 Study Stuff
+  
+  **01)** [**Java Logics DS Algo:**](https://github.com/sahilasheikh/Java-Logics-DS-Algo) In this repo, you will get all the logical programs, Data Structures, and Algorithms with codes.
+  
+  **02)** [**JDBC CRUD:**](https://github.com/sahilasheikh/JDBC-CRUD) This is a JDBC [Java Database Connectivity] Project that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
+  
+  **03)** [**Servlet CRUD:**](https://github.com/sahilasheikh/Servlet-CRUD) This is a Servlet Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
+  
+  **04)** [**Servlet Login Registration:**](https://github.com/sahilasheikh/Servlet-Login-Registration) This is the web application is to register, login, and log out the user using Servlet, JDBC & Oracle Database.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
