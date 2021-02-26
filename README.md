@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year BTech student | Java Developer</h3>
 
-- 🔭 I’m currently working on [**Notes**](https://github.com/sahilasheikh/Notes)
+- 🔭 I’m currently working on [**User Manager**](https://github.com/sahilasheikh/User-Manager)
 
 - 📝 I regularly write articles on [**Instagram**](https://instagram.com/sahil.asheikh)
 
