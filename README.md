@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year BTech student | Java Developer</h3>
 
-- 🔭 I’m currently working on [**User Manager**](https://github.com/sahilasheikh/User-Manager)
+- 🔭 I’m currently working on [**Password Manager**](https://github.com/sahilasheikh/Password-Manager)
 
 - 📝 I regularly write articles on [**Instagram**](https://instagram.com/sahil.asheikh)
 
 - 📫 How to reach me **sahilasheikh123@gmail.com**
+
+- 👨‍💻 My Portfolio [**Visit Now**](https://begawo.herokuapp.com/)
 
 - 💻 My Projects
 
@@ -17,9 +19,9 @@
   
   **04)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
-  **05)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
+  **05)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
 
-  **06)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
+  **06)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
   
   **07)** [**My Portfolio:**](https://github.com/sahilasheikh/My-Portfolio) Here are the codes of my portfolio website, visit for more.
 
