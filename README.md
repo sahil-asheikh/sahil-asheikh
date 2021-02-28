@@ -22,8 +22,6 @@
   **05)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
 
   **06)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
-  
-  **07)** [**My Portfolio:**](https://github.com/sahilasheikh/My-Portfolio) Here are the codes of my portfolio website, visit for more.
 
 - 💻 Study Stuff
   
