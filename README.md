@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year BTech student | Java Developer</h3>
 
-- 🔭 I’m currently working on [**Password Manager**](https://github.com/sahilasheikh/Password-Manager)
+- 🔭 I’m currently working on [**Pw Manager**](https://github.com/sahilasheikh/Pw-Manager)
 
 - 📝 I regularly write articles on [**Instagram**](https://instagram.com/sahil.asheikh)
 
@@ -21,7 +21,7 @@
 
   **05)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
 
-  **06)** [**Password Manager:**](https://github.com/sahilasheikh/Password-Manager) A Password Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
+  **06)** [**Pw Manager:**](https://github.com/sahilasheikh/Pw-Manager) A Pw Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
 
 - 💻 Study Stuff
   
