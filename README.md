@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
-<h3 align="center">3rd year BTech student | Java Developer</h3>
+<h3 align="center">3rd year BTech student</h3>
 
 - 🔭 I’m currently working on [**Pw Manager**](https://github.com/sahilasheikh/Pw-Manager)
 
