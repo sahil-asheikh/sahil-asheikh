@@ -16,12 +16,10 @@
   **02)** [**Burger 34:**](https://github.com/sahilasheikh/Burger-34) Burger 34 is a food order app that orders food & sends the data/details from the customer application to the owner’s application. Both the user’s & owner’s applications communicate via Firebase Server.
   
   **03)** [**PassGen:**](https://github.com/sahilasheikh/Pass-Gen) PassGen is a password generator and manager application that generate a strong password according to user requirement.
-  
-  **04)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
-  **05)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
+  **04)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
 
-  **06)** [**Pw Manager:**](https://github.com/sahilasheikh/Pw-Manager) A Pw Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
+  **05)** [**Pw Manager:**](https://github.com/sahilasheikh/Pw-Manager) A Pw Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
 
 - 💻 Study Stuff
   
@@ -32,6 +30,8 @@
   **03)** [**Servlet CRUD:**](https://github.com/sahilasheikh/Servlet-CRUD) This is a Servlet Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
   
   **04)** [**Servlet Login Registration:**](https://github.com/sahilasheikh/Servlet-Login-Registration) This is the web application is to register, login, and log out the user using Servlet, JDBC & Oracle Database.
+
+  **05)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
