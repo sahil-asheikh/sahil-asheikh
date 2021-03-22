@@ -31,11 +31,7 @@
 
   **10)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
 
-  **11)** [**My Portfolio:**](https://github.com/sahilasheikh/My-Portfolio) Here are the codes of my portfolio website, visit for more.
-
-  **12)** [**Axel:**](https://github.com/sahilasheikh/Axel) WhatsApp Bot.
-
-  **13)** [**WhatsApp Bot Plugin:**](https://github.com/sahilasheikh/WhatsApp-Bot-Plugin) This repo has all the WhatsApp Bot Plugins that were developed by me...
+  **11)** [**WhatsApp Bot Plugin:**](https://github.com/sahilasheikh/WhatsApp-Bot-Plugin) This repo has all the WhatsApp Bot Plugins that were developed by me...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
