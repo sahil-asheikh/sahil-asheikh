@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year BTech student</h3>
 
-- 🔭 I’m currently working on [**Pw Manager**](https://github.com/sahilasheikh/Pw-Manager)
+- 🔭 I’m currently working on [**WhatsApp Bot**](https://github.com/sahilasheikh/WhatsAsenaDuplicated)
 
 - 📝 I regularly write articles on [**Instagram**](https://instagram.com/sahil.asheikh)
 
