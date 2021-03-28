@@ -27,5 +27,31 @@
 [**LinkedIn**](https://linkedin.com/in/sahilasheikh) || 
 [**Instagram**](https://instagram.com/sahil.ashiekh) || 
 [**HackerRank**](https://www.hackerrank.com/sahilasheikh)
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages, Technologies and Frameworks:</h3>
+<p align="left">
+
+[**Java**]() || 
+[**Servlet**]() || 
+[**JSP**]() || 
+[**JDBC**]() || 
+[**Hibernate**]() || 
+[**Spring MVC**]() || 
+[**Spring Boot**]() || 
+[**HTML**]() || 
+[**CSS**]() || 
+[**JavaScript**]() || 
+[**Angular**]()
+
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+
+[**Eclipse**]() || 
+[**Visual Studio Code**]() || 
+[**Android Studio**]()
+</p>
+
