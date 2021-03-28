@@ -20,18 +20,6 @@
   **04)** [**User Manager:**](https://github.com/sahilasheikh/User-Manager) The User Manager is a web application in which we can manage user data. Admin can insert new user details, also retrieve, update or delete the existing user details through the Oracle Database.
 
   **05)** [**Pw Manager:**](https://github.com/sahilasheikh/Pw-Manager) A Pw Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
-  
-  **06)** [**Java Logics DS Algo:**](https://github.com/sahilasheikh/Java-Logics-DS-Algo) In this repo, you will get all the logical programs, Data Structures, and Algorithms with codes.
-  
-  **07)** [**JDBC CRUD:**](https://github.com/sahilasheikh/JDBC-CRUD) This is a JDBC [Java Database Connectivity] Project that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
-  
-  **08)** [**Servlet CRUD:**](https://github.com/sahilasheikh/Servlet-CRUD) This is a Servlet Web Application that performs CRUD [Create, Retrieve, Update & Delete] operation on Oracle Database.
-  
-  **09)** [**Servlet Login Registration:**](https://github.com/sahilasheikh/Servlet-Login-Registration) This is the web application is to register, login, and log out the user using Servlet, JDBC & Oracle Database.
-
-  **10)** [**Caesar-Cipher:**](https://github.com/sahilasheikh/Caesar-Cipher) This is a java application that encrypts and decrypts the given message and secret message respectively using key and Caesar cipher technic.
-
-  **11)** [**WhatsApp Bot Plugin:**](https://github.com/sahilasheikh/WhatsApp-Bot-Plugin) This repo has all the WhatsApp Bot Plugins that were developed by me...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
