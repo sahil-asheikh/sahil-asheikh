@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
-<h3 align="center">3rd year BTech student</h3>
+<h3 align="center">3rd year B.E. student</h3>
 
 - 🔭 I’m currently working on [**WhatsApp Bot**](https://github.com/sahilasheikh/WhatsAsenaDuplicated)
 
