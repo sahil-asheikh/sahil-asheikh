@@ -22,6 +22,8 @@
   **05)** [**Pw Manager:**](https://github.com/sahilasheikh/Pw-Manager) A Pw Manager is a Java application that encrypts the user's password and stores it into the Oracle Database and allows users to decrypt, retrieve and manage their local passwords with their master password in an Oracle Database for applications, websites, and online services.
   
   **06)** [**Covians:**](https://github.com/sahilasheikh/Covians) Covians is an android application that uses Firebase's Realtime Database & Twitter API  to provides data regarding vital resources for covid like oxygen cylinders, plasma, ventilators, etc for covid infected peoples.
+  
+  **07)** [**Come Here:**](https://github.com/sahilasheikh/Come-Here) This is a simple web app that shows random text for couples related to "come here" just to show some love to their partner.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,12 +41,10 @@
 [**Servlet**]() || 
 [**JSP**]() || 
 [**JDBC**]() || 
+[**MySQL**]() || 
 [**Hibernate**]() || 
 [**Spring MVC**]() || 
 [**Spring Boot**]() || 
-[**HTML**]() || 
-[**CSS**]() || 
-[**JavaScript**]() || 
 [**Angular**]()
 
 </p>
