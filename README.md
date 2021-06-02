@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
 <h3 align="center">3rd year B.E. student</h3>
 
-- 🔭 I’m currently working on [**WhatsApp Bot**](https://github.com/sahilasheikh/WhatsAsenaDuplicated)
+- 📝 I regularly write articles on [**Instagram**](https://instagram.com/java_coder_)
 
-- 📝 I regularly write articles on [**Instagram**](https://instagram.com/sahil.asheikh)
-
-- 📫 How to reach me **sahilasheikh123@gmail.com**
-
-- 👨‍💻 My Portfolio [**Visit Now**](https://begawo.herokuapp.com/)
+- 📫 How to reach me **supreme.begawo@gmail.com**
 
 - 💻 My Projects
 
@@ -29,7 +25,7 @@
 <p align="left">
 
 [**LinkedIn**](https://linkedin.com/in/sahilasheikh) || 
-[**Instagram**](https://instagram.com/sahil.ashiekh) || 
+[**Instagram**](https://instagram.com/java_coder) || 
 [**HackerRank**](https://www.hackerrank.com/sahilasheikh)
 </p>
 
@@ -38,14 +34,10 @@
 <p align="left">
 
 [**Java**]() || 
-[**Servlet**]() || 
-[**JSP**]() || 
-[**JDBC**]() || 
 [**MySQL**]() || 
 [**Hibernate**]() || 
 [**Spring MVC**]() || 
-[**Spring Boot**]() || 
-[**Angular**]()
+[**Spring Boot**]()
 
 </p>
 
