@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sahil A Sheikh,</h1>
+<h1 align="center">Hi, I'm Sahil Sheikh,</h1>
 <h3 align="center">3rd year B.E. student</h3>
 
 - 📝 I regularly post articles about java and tech on [**My Instagram**](https://instagram.com/java_coder_) account, please visit& do follow.
