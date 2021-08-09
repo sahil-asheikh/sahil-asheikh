@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahil Sheikh,</h1>
 <h3 align="center">3rd year B.E. student</h3>
 
-- 📝 I regularly post articles about java and tech on [**My Instagram**](https://instagram.com/java_coder_) account, please visit& do follow.
+- 📝 [**My portfolio**](https://sahil-asheikh.github.io).
 
 - 📫 How to reach me **sahil_asheikh@rediffmail.com**
 
@@ -26,25 +26,25 @@
 
 [**LinkedIn**](https://linkedin.com/in/sahilasheikh) || 
 [**Instagram**](https://instagram.com/java_coder) || 
-[**HackerRank**](https://www.hackerrank.com/sahilasheikh)
+[**LeetCode**](https://www.leetcode.com/sahil_asheikh)
 </p>
 
 
 <h3 align="left">Languages, Technologies and Frameworks:</h3>
 <p align="left">
 
-[**Java**]() || 
-[**MySQL**]() || 
-[**Spring MVC**]() || 
-[**Spring Boot**]()
+[**Java**](https://sahil-asheikh.github.io) || 
+[**MySQL**](https://sahil-asheikh.github.io) || 
+[**Spring MVC**](https://sahil-asheikh.github.io) || 
+[**Spring Boot**](https://sahil-asheikh.github.io)
 
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
 
-[**Eclipse**]() || 
-[**Visual Studio Code**]() || 
-[**Android Studio**]()
+[**Eclipse**](https://sahil-asheikh.github.io) || 
+[**Visual Studio Code**](https://sahil-asheikh.github.io) || 
+[**Android Studio**](https://sahil-asheikh.github.io)
 </p>
 
