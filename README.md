@@ -1,51 +1,55 @@
-<h1 align="center">Hi, I'm Sahil Sheikh,</h1>
-<h3 align="center">3rd year B.E. student</h3>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+</div>
 
-- 📝 [**My portfolio**](https://sahil-asheikh.github.io).
+<div align="center">
+<br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better! <br>
+Ask me anything on <a href="https://www.linkedin.com/in/sahil-asheikh/"><b>LinkedIn</b></a> or <a href="mailto:sahil_asheikh@rediffmail.com"><b>email</b></a> me.
 
-- 📫 How to reach me **sahil_asheikh@rediffmail.com**
+<i>Happy Coding!</i> :)
 
-- 💻 My Projects
+  🔭 I’m currently working on my **Start-Up**
 
-  **01)** [**WingzApp:**](https://github.com/sahil-asheikh/WingzApp) WingzApp is an application that hosts Question Papers, Notes, Syllabus, Timetable & Marksheet of RTMNU University. All the functions like the broadcast of docs, authentication are performed using Web View, Firebase Realtime Database.
-  
-  **02)** [**Burger 34:**](https://github.com/sahil-asheikh/Burger-34) Burger 34 is a food order app that orders food & sends the user and food details from the customer application to the owner’s application via the firebase server.
-  
-  **03)** [**TSP Auth:**](https://github.com/sahil-asheikh/TSF-Auth) TSF Auth is my internship project replica that allows the user to log in or signup using their Google or GitHub accounts.
+  🌱 I’m currently working on **Java**
 
-  **04)** [**PwManager:**](https://github.com/sahil-asheikh/PwManager) PwManager is an online password management web application that aims at save/storing multiple passwords into the MySQL Database in encrypted form.
-  
-  **05)** [**Job Portal:**](https://github.com/sahil-asheikh/Job-Portal) Job Portal is a web application that helps employees to search for jobs also employers to create jobs for employees.
+  🤝 I’m looking for help with **Starting Frontend Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  💬 Ask me about **Java, and Java Technologies & Framework**
 
-[**LinkedIn**](https://linkedin.com/in/sahilasheikh) || 
-[**Instagram**](https://instagram.com/java_coder) || 
-[**LeetCode**](https://www.leetcode.com/sahil_asheikh)
+  📫 How to reach me **sahil_asheikh@rediffmail.com**
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+ <a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ </a>
+ <a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ </a>
+ <a href="https://getbootstrap.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ </a>
 </p>
 
 
-<h3 align="left">Languages, Technologies and Frameworks:</h3>
-<p align="left">
+</div>
+<!-- Git Hub Stats -->
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-asheikh&show_icons=true&locale=en&layout=compact" alt="sahil-asheikh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-asheikh&show_icons=true&locale=en" alt="sahil-asheikh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-asheikh&" alt="sahil-asheikh" /></p>
+</br>
+</br>
 
-[**Java**](https://sahil-asheikh.github.io) || 
-[**Servlet**](https://sahil-asheikh.github.io) || 
-[**JSP**](https://sahil-asheikh.github.io) || 
-[**JDBC**](https://sahil-asheikh.github.io) || 
-[**MySQL**](https://sahil-asheikh.github.io) || 
-[**Spring**](https://sahil-asheikh.github.io) || 
-[**Spring Boot**](https://sahil-asheikh.github.io)
+<!-- skills -->
+[![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahil-asheikh&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/sahil-asheikh/github-readme-activity-graph)
 
-</p>
+<i>Connect with me across the web :</i>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/sahil-asheikh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
 
-[**NetBeans**](https://sahil-asheikh.github.io) || 
-[**Work Bench**](https://sahil-asheikh.github.io) || 
-[**Eclipse**](https://sahil-asheikh.github.io) || 
-[**Visual Studio Code**](https://sahil-asheikh.github.io) || 
-[**Android Studio**](https://sahil-asheikh.github.io)
-</p>
-
+</div>
