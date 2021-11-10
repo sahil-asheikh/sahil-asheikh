@@ -9,7 +9,7 @@ Ask me anything on <a href="https://www.linkedin.com/in/sahil-asheikh/"><b>Linke
 
 <i>Happy Coding!</i> :)
 
-  🔭 I’m currently working on my **Start-Up**
+<!--   🔭 I’m currently working on my **Start-Up** -->
 
   🌱 I’m currently working on **Java**
 
