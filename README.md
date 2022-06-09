@@ -16,10 +16,9 @@
   
   <p>🌱 Interests:</p>
   <ul>
-    <li>Developemnt</li>
     <li>Competative Programming</li>
     <li>Web/Android Development</li>
-    <li>Creating content (YouTube/Twitch)</li>
+    <li>Creating content (YouTube/Instagram/LinkedIn)</li>
   </ul>
   
   <p>💬 Reach me by email or LinkedIn! <a href="sahil_asheikh@rediffmail.com" targer="_blank">sahil_asheikh@rediffmail.com</a> | 
