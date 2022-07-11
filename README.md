@@ -6,7 +6,6 @@
     <li>Associate Software Developer - Betsol Softwares (India) [Jul 2022 - Present]</li>
     <li>Full Stack Developer - Begawo Soft (Freelancing Firm) [Oct 2020 - Present]</li>
     <li>Java Developer Intern - Qaswa Technologies Pvt. Ltd. [Aug 2021 - Nov 2021]</li>
-    <li>Android Developer Intern - The Spark Foundation Pvt. Ltd. [Apr 2021]</li>
   </ul>
   
   <!-- <p>🔭 Current project:</p>
