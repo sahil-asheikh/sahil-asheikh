@@ -3,7 +3,8 @@
   <p>I am Sahil a Freelancer and a Full Stack Developer with a passion for building websites and applications. I have a knack for all things launching products, from planning and designing all the way to solving real-life problems with code.</p>
   <p>⚡ Work experience:</p>
   <ul>
-    <li>Associate Software Developer - Betsol Softwares (India) [Jul 2022 - Present]</li>
+    <li>Full Stack Developer - Betsol Softwares (India) [Aug 2022 - Present]</li>
+    <li>Associate Software Developer - Betsol Softwares (India) [Jul 2022 - Aug 2022]</li>
     <li>Full Stack Developer - Begawo Soft (Freelancing Firm) [Oct 2020 - Present]</li>
     <li>Java Developer Intern - Qaswa Technologies Pvt. Ltd. [Aug 2021 - Nov 2021]</li>
   </ul>
