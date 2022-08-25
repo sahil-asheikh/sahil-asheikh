@@ -23,6 +23,6 @@
   <p>💬 Reach me by email or LinkedIn! <a href="sahil_asheikh@rediffmail.com" targer="_blank">sahil_asheikh@rediffmail.com</a> | 
     <a href="https://www.linkedin.com/in/sahil-asheikh" targer="_blank">www.linkedin.com/in/sahil-asheikh</p></a>
 
-  <p>📫 Visit my portfolio: <a href="https://sahil-asheikh.github.io/" targer="_blank">sahil-asheikh.github.io/</a></p>
+  <p>📫 Visit my portfolio: <a href="https://sahilsk-dev.netlify.app/" targer="_blank">sahilsk-dev.netlify.app/</a></p>
 
 </div>
