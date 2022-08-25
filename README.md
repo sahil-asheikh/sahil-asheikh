@@ -21,7 +21,7 @@
   </ul>
   
   <p>💬 Reach me by email or LinkedIn! <a href="sahil_asheikh@rediffmail.com" targer="_blank">sahil_asheikh@rediffmail.com</a> | 
-    <a href="https://www.linkedin.com/in/sahil-asheikh" targer="_blank">www.linkedin.com/in/sahil-asheikh</p></a>
+    <a href="https://www.linkedin.com/in/sahilsk-dev" targer="_blank">www.linkedin.com/in/sahilsk-dev</p></a>
 
   <p>📫 Visit my portfolio: <a href="https://sahilsk-dev.netlify.app/" targer="_blank">sahilsk-dev.netlify.app/</a></p>
 
