@@ -8,11 +8,6 @@
     <li>Java Developer Intern - Qaswa Technologies Pvt. Ltd. [Aug 2021 - Nov 2021]</li>
   </ul>
   
-  <!-- <p>🔭 Current project:</p>
-  <ul>
-    <li>Portable Car Parking Management System (Cloud Computing, IoT, Android Based)</li>
-  </ul> -->
-  
   <p>🌱 Interests:</p>
   <ul>
     <li>Competative Programming</li>
@@ -20,9 +15,9 @@
     <li>Creating content (YouTube/Instagram/LinkedIn)</li>
   </ul>
   
-  <p>💬 Reach me by email or LinkedIn! <a href="sahil_asheikh@rediffmail.com" targer="_blank">sahil_asheikh@rediffmail.com</a> | 
-    <a href="https://www.linkedin.com/in/sahilsk-dev" targer="_blank">www.linkedin.com/in/sahilsk-dev</p></a>
+  <p>💬 Reach me by email or LinkedIn! <a href="mailto:sahilsheikh.dev@gmail.com" targer="_blank">sahilsheikh.dev@gmail.com</a> | 
+    <a href="https://www.linkedin.com/in/sahilsheikh-dev/" targer="_blank">www.linkedin.com/in/sahilsheikh-dev</p></a>
 
-  <p>📫 Visit my portfolio: <a href="https://sahilsk-dev.netlify.app/" targer="_blank">sahilsk-dev.netlify.app/</a></p>
+  <p>📫 Visit my portfolio: <a href="https://sahilsheikh-dev.netlify.app/" targer="_blank">sahilsheikh-dev.netlify.app/</a></p>
 
 </div>
