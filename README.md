@@ -47,4 +47,4 @@ I can help you or your business create a web app or an android application, from
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/sahilsheikh-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/sahilsheikh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
