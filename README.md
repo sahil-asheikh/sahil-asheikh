@@ -4,11 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Freelance Full Stack Developer
 -----------------------------------------------------
 
-I am Sahil Sheikh, a Software Developer and Freelance Full Stack Developer with industry experience building web and android applications, developing end-to-end solutions for clients, and delivering the work throughout the internet. I specialize in responsive, mobile friendly website development, android applications development, also API development, developing applications from scratch also migrating and implementing features in prebuild applications that are needed to achieve my client's goals. I also have extensive experience integrating and developing the REST API for web and android applications. Over the past 3 years, I have developed a wide range of android applications using Java and Kotlin also web applications using HTML5/CSS3 and React.Js including sites for startup companies, small businesses, and individuals. I enjoy developing, coding, and maintaining clean, professional, easy to navigate websites. I can help you or your business create a web app or an android application, from a design concept to a completed, polished, professional app. I can also help maintain and update existing applications.
+I am Sahil Sheikh, a Software Developer and Freelance Full Stack Developer with industry experience building web and android applications, developing end-to-end solutions for clients, and delivering the work throughout the internet.
+<br><br>
+I specialize in responsive, mobile friendly website development, android applications development, also API development, developing applications from scratch also migrating and implementing features in prebuild applications that are needed to achieve my client's goals. I also have extensive experience integrating and developing the REST API for web and android applications.
+<br><br>
+Over the past 3 years, I have developed a wide range of android applications using Java and Kotlin also web applications using HTML5/CSS3 and React.Js including sites for startup companies, small businesses, and individuals. I enjoy developing, coding, and maintaining clean, professional, easy to navigate websites.
+<br><br>
+I can help you or your business create a web app or an android application, from a design concept to a completed, polished, professional app. I can also help maintain and update existing applications.
 
-*   🌍  I'm based in Bangalore
-*   🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
-*   ✉️  You can contact me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com)### Skills 
+* 🌍  I'm based in Bangalore
+* 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
+* ✉️  You can contact me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com)
+
+### Skills
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -31,19 +40,10 @@ I am Sahil Sheikh, a Software Developer and Freelance Full Stack Developer with 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/sahilsheikh.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/sahilsheikh_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Support Me<a
-                  href="https://www.buymeacoffee.com/sahilsheikh-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sahilsheikh.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sahilsheikh_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Support Me
+
+<a href="https://www.buymeacoffee.com/sahilsheikh-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
