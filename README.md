@@ -3,14 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer and Freelance Full Stack Developer
 -----------------------------------------------------
-
-I am Sahil Sheikh, a Software Developer and Freelance Full Stack Developer with industry experience building web and android applications, developing end-to-end solutions for clients, and delivering the work throughout the internet.
+I am Sahil Sheikh, a Software Developer and Freelance Full Stack Developer with industry experience of 4+ Years in building web applications, APIs, and android applications, developing end-to-end solutions for clients, and delivering the work throughout the internet.
 <br><br>
-I specialize in responsive, mobile friendly website development, android applications development, also API development, developing applications from scratch also migrating and implementing features in prebuild applications that are needed to achieve my client's goals. I also have extensive experience integrating and developing the REST API for web and android applications.
+I specialize in responsive, mobile friendly website development, android applications development, also API development using Spring Boot, developing applications from scratch also migrating and implementing features in prebuilt applications that are needed to achieve my client's goals. I also have extensive experience integrating and developing the REST API for web and android applications.
 <br><br>
-Over the past 3 years, I have developed a wide range of android applications using Java and Kotlin also web applications using HTML5/CSS3 and React.Js including sites for startup companies, small businesses, and individuals. I enjoy developing, coding, and maintaining clean, professional, easy to navigate websites.
+Over the past 4 years, I have developed web applications using HTML5/CSS3 and React.Js including sites also microservices, and REST APIs using Java and Spring Boot for startup companies, small businesses, and individuals. I enjoy developing, coding, and maintaining clean, professional, easy to navigate websites.
 <br><br>
-I can help you or your business create a web app or an android application, from a design concept to a completed, polished, professional app. I can also help maintain and update existing applications.
+I can help you or your business to create a landing page, portfolio website, web application, microservices, APIs, or android application, from a design concept to a completed, polished, professional app. I can also help maintain and update existing applications.
+<br><br>
+Please take a look at my work and also get in touch!
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
