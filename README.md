@@ -1,19 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil
 =============================================================================================================================
 
-Software Developer and Freelance Full Stack Developer
+Software Developer and Full Stack Freelance Developer
 -----------------------------------------------------
-I am Sahil Sheikh, a Software Developer and Freelance Full Stack Developer with industry experience of 4+ Years in building web applications, APIs, and android applications, developing end-to-end solutions for clients, and delivering the work throughout the internet.
+As a full-stack developer with over 2+ years of experience, I possess a strong foundation in front-end and back-end technologies. My skill set includes expertise in React JS and a deep understanding of Spring Boot. I am passionate about creating intuitive and user-friendly web applications and have a track record of delivering high-quality code on time.
 <br><br>
-I specialize in responsive, mobile friendly website development, android applications development, also API development using Spring Boot, developing applications from scratch also migrating and implementing features in prebuilt applications that are needed to achieve my client's goals. I also have extensive experience integrating and developing the REST API for web and android applications.
+Throughout my coding journey, I have had the opportunity to work with various clients and projects, which has given me valuable experience in collaborating with remote teams. I have learned the importance of communication and adaptability, which have enabled me to be successful in delivering projects on time and within budget.
 <br><br>
-Over the past 4 years, I have developed web applications using HTML5/CSS3 and React.Js including sites also microservices, and REST APIs using Java and Spring Boot for startup companies, small businesses, and individuals. I enjoy developing, coding, and maintaining clean, professional, easy to navigate websites.
+In addition to my technical skills, I am also a strong communicator and a problem solver. I take pride in understanding clients' needs and delivering solutions that exceed their expectations. I have worked on various projects ranging from e-commerce platforms to web applications, and inventory management systems, each requiring a unique approach and solution.
 <br><br>
-I can help you or your business to create a landing page, portfolio website, web application, microservices, APIs, or android application, from a design concept to a completed, polished, professional app. I can also help maintain and update existing applications.
+I am currently available for jobs (Full Time/Freelance) and am always looking for new challenges and opportunities to grow as a developer. I am committed to keeping up with the latest trends and technologies in the industry and continuously improving my skills. I believe that my passion for development, combined with my technical expertise, makes me an asset to any team.
+<br><br>
+If you are looking for a full stack developer for your next project or would like to learn more about my skills and experience, please connect with me on LinkedIn or reach out to me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com).
 <br><br>
 Please take a look at my work and also get in touch!
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
 * ✉️  You can contact me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com)
 
