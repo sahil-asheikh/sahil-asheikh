@@ -1,19 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil
 =============================================================================================================================
 
-Software Developer and Full Stack Freelance Developer
+Software Engineer | Managing Cloud Infrastructure | DevOps & Cloud Expertise
 -----------------------------------------------------
-As a full-stack developer with over 2+ years of experience, I possess a strong foundation in front-end and back-end technologies. My skill set includes expertise in React JS and a deep understanding of Spring Boot. I am passionate about creating intuitive and user-friendly web applications and have a track record of delivering high-quality code on time.
+Greetings! I'm an Associate Software Engineer driven by a dynamic skill set spanning DevOps and Cloud Technologies such as AWS and Azure, coupled with proficient development capabilities in Java/Spring Boot, and React JS.
 <br><br>
-Throughout my coding journey, I have had the opportunity to work with various clients and projects, which has given me valuable experience in collaborating with remote teams. I have learned the importance of communication and adaptability, which have enabled me to be successful in delivering projects on time and within budget.
+My journey in the tech realm has equipped me with the proficiency to adeptly manage Linux VM Ware environments. From seamless patching and meticulous migrations to skillful snapshot activities and precise application deployment, I leverage an array of cutting-edge tools including AWS, VMWare, Linux, and Tintri.
 <br><br>
-In addition to my technical skills, I am also a strong communicator and a problem solver. I take pride in understanding clients' needs and delivering solutions that exceed their expectations. I have worked on various projects ranging from e-commerce platforms to web applications, and inventory management systems, each requiring a unique approach and solution.
+As an adaptable professional, I am fervently exploring new avenues within the software engineering space, particularly in the DevOps and Cloud Domain. My thirst for challenges fuels my desire to continuously elevate my engineering prowess. My commitment to staying at the vanguard of industry trends and emerging technologies ensures that I remain a proactive learner, constantly honing my skills to deliver innovation.
 <br><br>
-I am currently available for jobs (Full Time/Freelance) and am always looking for new challenges and opportunities to grow as a developer. I am committed to keeping up with the latest trends and technologies in the industry and continuously improving my skills. I believe that my passion for development, combined with my technical expertise, makes me an asset to any team.
+With a potent blend of technical excellence, unwavering dedication, and an inherent passion for both development and cloud technologies, I am confident in my ability to augment any team's capabilities. I am convinced that my contributions can significantly enhance your organization's software engineering endeavors. Let's connect and initiate a dialogue on how I can seamlessly integrate value into your team's aspirations. 🌟
 <br><br>
-If you are looking for a full stack developer for your next project or would like to learn more about my skills and experience, please connect with me on LinkedIn or reach out to me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com).
-<br><br>
-Please take a look at my work and also get in touch!
+I am actively seeking new job opportunities to contribute my technical expertise in DevOps and Cloud Domain and be part of a dynamic team, connect with me on LinkedIn or reach out to me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com).
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
