@@ -27,11 +27,10 @@ I am actively seeking new job opportunities to contribute my technical expertise
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/sahilsheikh.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="http://www.medium.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/sahilsheikh_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  <a href="https://www.linkedin.com/in/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://github.com/sahilsheikh-dev/sahilsheikh-dev/assets/64475486/4fa7ee65-4766-49e1-9db2-ce1ee974fb94" width="32" height="32" /></a>
+  <a href="https://www.github.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://github.com/sahilsheikh-dev/sahilsheikh-dev/assets/64475486/61598842-5218-48d7-b094-ac4c7c4d6ec4" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/sahilsheikh.dev" target="_blank" rel="noreferrer"><img src="https://github.com/sahilsheikh-dev/sahilsheikh-dev/assets/64475486/7bd11296-d9e1-491a-a41a-9b2bd412b140" width="32" height="32" /></a>
+</p>
 
 ### Support Me
 
