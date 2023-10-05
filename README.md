@@ -13,7 +13,7 @@ Want to see what tools I use as a developer? [Check out my uses page](https://sa
 
 - 🌍  I'm based in Bangalore, India
 - 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
-* ✉️  You can contact me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com)
+- ✉️  You can contact me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com)
 
 ## 🎯 Focus
 - Creating CICD piplines for application.
