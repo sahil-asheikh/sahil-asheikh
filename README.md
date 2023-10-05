@@ -1,37 +1,39 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil
-=============================================================================================================================
+# Hey 👋, This is Sahil
 
-Software Engineer | Managing Cloud Infrastructure | DevOps & Cloud Expertise | CI/CD Enthusiast | GIT | Jenkins | Bash | Docker | Ansible | Monitoring | Terraform | Kubernetes | Java | Python
------------------------------------------------------
-Greetings! I'm an Associate Software Engineer driven by a dynamic skill set spanning DevOps and Cloud Technologies.
-<br><br>
-My journey in the tech realm has equipped me with the proficiency to adeptly manage Cloud Infrastructure, developing and deploying Java Services.
-<br><br>
-As an adaptable professional, I am fervently exploring new avenues within the software engineering space, particularly in the DevOps and Cloud Technologies. My thirst for challenges fuels my desire to continuously elevate my engineering prowess. My commitment to staying at the vanguard of industry trends and emerging technologies ensures that I remain a proactive learner, constantly honing my skills to deliver innovation.
-<br><br>
-With a potent blend of technical excellence, unwavering dedication, and an inherent passion for both DevOps and Cloud Technologies, I am confident in my ability to augment any team's capabilities. I am convinced that my contributions can significantly enhance your organization's software engineering endeavors. Let's connect and initiate a dialogue on how I can seamlessly integrate value into your team's aspirations. 🌟
-<br><br>
-I am actively seeking new job opportunities to contribute my technical expertise in DevOps and Cloud Domain and be part of a dynamic team, connect with me on LinkedIn or reach out to me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com).
+Bangalore based Software Developer Engineer who creates well-designed websites and applications. A tech nerd, and have used his programming powers mainly for good. Like many of his generation, he was drawn to coding originally as an angsty teen trying to make his MySpace page look cool-but not too cool.
+<br /><br />
+Since those days have been pretty busy both in-house and as a freelancer, and with his YouTube channel where teaches people how to develop. Have a variety of experience such as developing custom website themes and templates, frontend development in React, backend/RestAPIs/micro-services development in Java/Spring Boot, and speaks fluent HTML, CSS, JavaScript, React, and Spring Boot.
+<br /><br />
+Loves to tackle a challenge head-on by analyzing it and coming up with a plan to solve the needs of his clients that makes sense for their big-picture goals. Most recently, developed and deployed a ReactJs and Spring Boot application on AWS, and working as a Software Engineer at Betsol (India).
+<br /><br />
+Does your product team need a hand bringing your designs to life? Learn how ["how you can hire Me"](https://sahilsheikh-dev.netlify.app/Contact)
+<br /><br />
+Want to see what tools I use as a developer? [Check out my uses page](https://sahilsheikh-dev.netlify.app/Affiliate).
+<br /><br />
 
-* 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
+- 🌍  I'm based in Bangalore, India
+- 🖥️  See my portfolio at [sahilsheikh-dev.netlify.app/](http://sahilsheikh-dev.netlify.app/)
 * ✉️  You can contact me at [sahilsheikh.dev@gmail.com](mailto:sahilsheikh.dev@gmail.com)
 
-<!-- ### Skills
+## 🎯 Focus
+- Creating CICD piplines for application.
+- Development of applications.
+- Software Architecture & Design.
+- Cloud-native development, and application delivery.
 
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-</p>
--->
+## 💪 Technical Skills
+- Containerizations Tool: Docker, Kubernetes
+- Cloud Platforms: AWS, Azure
+- Programming Languages: Java, Python, SQL, YAML, Shell Scripting
+- Version Control: Git, GitHub, GitLab, Bitbucket
+- Continuous Integration/Deployment: Jenkins, GitLab CI
+- Infrastructure-as-Code: Cloud Formation, Terraform
+- Monitoring and Visualization: Nagios
+- DevOps Tools: Ansible, Linux
 
-### Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://github.com/sahilsheikh-dev/sahilsheikh-dev/assets/64475486/4fa7ee65-4766-49e1-9db2-ce1ee974fb94" width="32" height="32" /></a>
-  <a href="https://www.github.com/sahilsheikh-dev" target="_blank" rel="noreferrer"><img src="https://github.com/sahilsheikh-dev/sahilsheikh-dev/assets/64475486/61598842-5218-48d7-b094-ac4c7c4d6ec4" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/sahilsheikh.dev" target="_blank" rel="noreferrer"><img src="https://github.com/sahilsheikh-dev/sahilsheikh-dev/assets/64475486/7bd11296-d9e1-491a-a41a-9b2bd412b140" width="32" height="32" /></a>
-</p>
+## 🚀 Find me on
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsheikh-dev/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahilsheikh_dev)
 
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/sahilsheikh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
