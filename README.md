@@ -22,20 +22,17 @@
 
 <img align="right" margin-left="20px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-🔭 I’m highly skilled in both **Frontend & Backend**.<br><br>
-📈 Currently developing application on **Next.js && TypeScript**<br><br>
-🎮 Open-source is the game - feel free to explore, fork, and star my repo.<br><br>
-🤣 Expect to find a treasure trove of puns, witty comments, and<br> hilarious Easter eggs sprinkled throughout my code.<br><br>
-⚡ When I'm not coding, I eat, geek out over the latest tech or Network or dream about to make best gaming + coding setup
-<br><br><br>
+🔭 I’m highly skilled in both **Java, Spring Boot, Backend Development & DSA**.<br>
+⚡ When I'm not coding, I eat, geek out over the latest Tech or Network or dream about making the best gaming + coding setup
+<br><br>
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,bash)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,tailwindcss,materialui,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nextjs,tailwindcss,materialui)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -44,15 +41,4 @@
 <h2>Tools</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kafka,linux,ansible,jenkins)](https://skillicons.dev)
-
-<br>
-
-## 🔥 My Stats:
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilsheikh-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-> ## " Keep calm, code on, and remember, The only way is up, and the future looks brighter than ever. Let's rock the coding world, one line at a time! "
-
 ###
